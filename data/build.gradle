@@ -1,0 +1,7 @@
+android {
+    buildTypes {
+        debug {
+            buildConfigField("String", "BASE_URL", "\"" + getProperty("app.api.base.url") + "\"")
+        }
+    }
+}

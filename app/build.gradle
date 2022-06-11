@@ -1,0 +1,11 @@
+android {
+
+    defaultConfig {
+        applicationId "com.ahmedroid.itemsbrowser"
+    }
+}
+
+dependencies {
+    implementation project(":core")
+    implementation project(":UI")
+}
