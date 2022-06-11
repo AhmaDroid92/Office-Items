@@ -4,11 +4,16 @@
 AhmeDroid
 
 
-The project is build using Android Studio Bumblebee 2021.1.1 \n
-Using Android Gradle Plugin 7.1.3 \n
-Using Gradle 7.3.3 \n
-Using Android Build Tools 30.0.3 \n
-Using JDK 11 \n
+The project is build using Android Studio Bumblebee 2021.1.1
+
+Using Android Gradle Plugin 7.1.3
+
+Using Gradle 7.3.3
+
+Using Android Build Tools 30.0.3
+
+Using JDK 11
+
 
 Note: I did not take the atomic-commit approach with this project although I would've prefered it.
 
